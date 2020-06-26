@@ -1,2 +1,3 @@
 Design-Patterns
-Implementation Design patterns using Java
+
+Implementation of Design patterns using Java
